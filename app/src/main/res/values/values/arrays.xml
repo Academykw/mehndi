@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Mehndi 2021</item>
+        <item>Floral Designs</item>
+        <item>Indian Designs</item>
+        <item>Glitter Designs</item>
+        <item>Rajasthani Designs</item>
+        <item>Moroccan Designs</item>
+        <item>Arabic Designs</item>
+        <item>Bangle Style Designs</item>
+        <item>Pakistani Designs</item>
+        <item>African Designs</item>
+        <item>Bridal Designs</item>
+        <item>Popular Designs</item>
+        <item>Latest Designs</item>
+        <item>Rangoli Designs</item>
+        <item>Nails Designs</item>
+        <item>Tattoo Designs</item>
+    </string-array>
+
+    <string-array name="more_category">
+        <item>Hair Style</item>
+        <item>Rangoli</item>
+        <item>Tattoo</item>
+        <item>Nail Art</item>
+        <item>Eye Makeup</item>
+        <item>Lehenga Designs</item>
+        <item>Sherwani Designs</item>
+        <item>Salwar-suit</item>
+        <item>Suit Designs</item>
+        <item>Mehndi Dresses</item>
+        <item>Girls Frocks</item>
+        <item>Baby Frocks</item>
+        <item>Girls Lehenga</item>
+        <item>Salwar Kameez</item>
+    </string-array>
+</resources>
