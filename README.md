@@ -164,7 +164,7 @@ Edit colors in `lib/utils/constants.dart` (AppColors class)
 2. Add route in `main.dart`
 3. Add navigation in parent screen
 
-## 🎓 Learning Opportunities
+##  Learning Opportunities
 
 - Flutter best practices and patterns
 - Responsive UI design
